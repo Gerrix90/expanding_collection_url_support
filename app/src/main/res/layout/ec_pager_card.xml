@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<gerrix90.expanding.collection.explib.ECPagerCard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <gerrix90.expanding.collection.explib.ECPagerCardContentList
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal">
+
+    </gerrix90.expanding.collection.explib.ECPagerCardContentList>
+
+</gerrix90.expanding.collection.explib.ECPagerCard>
+
